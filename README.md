@@ -1,4 +1,5 @@
-📊 Project Overview
+#📊 Project Overview
+
 The Impact of Generative AI on Academic Performance and Student Well-being
 
 This repository contains our collaborative group capstone project for the Junior Data Analytics program at NPower Canada.
