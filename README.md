@@ -1,4 +1,4 @@
-#📊 Project Overview
+📊 Project Overview
 
 The Impact of Generative AI on Academic Performance and Student Well-being
 
