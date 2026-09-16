@@ -16,4 +16,14 @@ Power BI: Interactive dashboard design and visual storytelling to present action
 
 Git & GitHub: Version control and collaborative code management.
 
+Repository Structure
+
+- ai_student_impact_dataset.csv – Raw dataset containing 50,000 student records.
+
+- ai_impact_cleaned.csv – Processed dataset prepared for modeling and analysis.
+
+- AI_impact_on_students.ipynb – Jupyter Notebook detailing data cleaning, feature engineering, and exploratory data analysis.
+
+- Capstone project.pbix – Interactive Power BI dashboard containing final visualizations and insights.
+
 Ultimately, this project proves that while AI can provide a slight boost to grades when used as a debugging tutor, over-reliance leads to a severe drop in long-term skill retention and a spike in closed-book exam anxiety.
